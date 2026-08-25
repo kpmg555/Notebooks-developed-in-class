@@ -13,4 +13,5 @@ https://colab.research.google.com/drive/1MiUVxpq3N6BwLrRLB94Gtr4zLitj5X1u?usp=sh
 20 de Agosto
 https://colab.research.google.com/drive/1G237CWyuqcPmhQjjqPeh63S5qsKUzUFV
 
-
+24 DE agosto
+https://colab.research.google.com/drive/1GyINNEHbutXi1by92m0e73xlb6vqHy66?usp=sharing
