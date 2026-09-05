@@ -18,3 +18,6 @@ https://colab.research.google.com/drive/1GyINNEHbutXi1by92m0e73xlb6vqHy66?usp=sh
 
 31 de agosto
 https://colab.research.google.com/drive/1sPOXIHRVI4A59B_aC1GUWXKefIrZTHFw?usp=sharing
+
+3 de Septiembre Notebook 6: 
+https://colab.research.google.com/drive/1DdcL49BS7RVCnEO_N5KDz8raOZ7zIGSZ?usp=sharing
