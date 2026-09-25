@@ -21,3 +21,8 @@ https://colab.research.google.com/drive/1sPOXIHRVI4A59B_aC1GUWXKefIrZTHFw?usp=sh
 
 3 de Septiembre Notebook 6: 
 https://colab.research.google.com/drive/1DdcL49BS7RVCnEO_N5KDz8raOZ7zIGSZ?usp=sharing
+
+PARCIAL 2: 
+
+24 de Septiembre:
+https://colab.research.google.com/drive/1kToAxujWrseyN_cFQlTpge1kYPRo69ZR?usp=sharing
