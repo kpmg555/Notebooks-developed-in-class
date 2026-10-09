@@ -29,3 +29,6 @@ https://colab.research.google.com/drive/1kToAxujWrseyN_cFQlTpge1kYPRo69ZR?usp=sh
 
 28 de Septiembre:
 https://colab.research.google.com/drive/1giO6hsRg9UQr1W7Xl4LEvaBbJcNq__3y?usp=sharing
+
+8 de octubre
+https://colab.research.google.com/drive/1hFh3W6scTKD6DJ65mx5D-zBsDpM5ut9t?usp=sharing
