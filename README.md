@@ -35,3 +35,10 @@ https://colab.research.google.com/drive/1hFh3W6scTKD6DJ65mx5D-zBsDpM5ut9t?usp=sh
 
 15 de octubre 
 https://colab.research.google.com/drive/1Xpj1BsRUSPCSBETJ-MPKWVkHsTKoRQ5Y?usp=sharing
+
+19 de octubre
+https://colab.research.google.com/drive/1ZbJnka_12zYGvEV56OwYeUzkbxeeXVgl?usp=sharing
+
+23 de octubre
+
+
