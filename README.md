@@ -39,6 +39,11 @@ https://colab.research.google.com/drive/1Xpj1BsRUSPCSBETJ-MPKWVkHsTKoRQ5Y?usp=sh
 19 de octubre
 https://colab.research.google.com/drive/1K95E_Z34hjkisNRXc2TPYhuoEfnNp0lS?usp=sharing
 
+22 de octubre
+https://colab.research.google.com/drive/18oCUzJl61RJWeaiF1ot_ZxfDNT3BNz9b?usp=sharing
+
+
+
 
 
 
