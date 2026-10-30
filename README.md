@@ -42,6 +42,8 @@ https://colab.research.google.com/drive/1K95E_Z34hjkisNRXc2TPYhuoEfnNp0lS?usp=sh
 22 de octubre
 https://colab.research.google.com/drive/18oCUzJl61RJWeaiF1ot_ZxfDNT3BNz9b?usp=sharing
 
+29 de octubre 
+https://colab.research.google.com/drive/116y5FB_g2oMc97hct3eNG3068cL-PiZL?usp=sharing
 
 
 
